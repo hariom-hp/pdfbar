@@ -68,6 +68,8 @@ For that, the **Stirling Server → Visual editor** entry opens the full
 drag-and-drop editor (add text boxes, images, signatures, then export). It needs
 the Stirling-PDF server running locally:
 
+![Visual editor](screenshot-editor.png)
+
 ```bash
 git clone https://github.com/Stirling-Tools/stirling-pdf
 cd stirling-pdf && docker compose up -d
