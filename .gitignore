@@ -1,0 +1,6 @@
+.build/
+.build-universal/
+*.app/
+*.dSYM/
+PDFBar.zip
+.DS_Store
